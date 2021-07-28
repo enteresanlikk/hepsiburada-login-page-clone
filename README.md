@@ -1,4 +1,4 @@
-# Hepsiburada Login/Register Clone
+# Hepsiburada Login/Register Page Clone
 
 ## Login Page
 ![Login page](login.png)
